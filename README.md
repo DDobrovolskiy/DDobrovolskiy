@@ -25,9 +25,10 @@ Style code:
 >![JavaDoc](https://img.shields.io/badge/JavaDoc-f0f8ff )
 
 #### Here is my study projects:
-1. [Java SE](https://github.com/stGOST/job4j)
+[![Java SE](https://github-readme-stats.vercel.app/api/pin/?username=stGOST&repo=job4j)](https://github.com/stGOST/job4j)
+
 #### My projects:
-1. Coming soon...
+Coming soon...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stGOST&layout=compact)](https://github.com/stGOST/github-readme-stats)
 
