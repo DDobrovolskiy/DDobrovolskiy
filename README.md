@@ -7,9 +7,22 @@
 -----------
 <b>Core technologies:</b>
 >![Java](https://img.shields.io/badge/Java-orange)
+>![JDBC](https://img.shields.io/badge/JDBC-yellow)
 >![Maven](https://img.shields.io/badge/Maven-red)
+
+Database:
 >![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+
+Testing:
+- jUnit
+- Mockito
+- JaCoCo
+- JMH
 >![Travis](https://img.shields.io/badge/TravisCI-succes)
+
+Style code:
+- Сheckstyle
+- JavaDoc
 
 #### Here is my study projects:
 ##### Lessons of:
