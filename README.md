@@ -26,11 +26,12 @@ Style code:
 
 #### Here is my study projects:
 1. [Java SE](https://github.com/stGOST/job4j)
-#### Projects:
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=stGOST&hide=stars,prs,issues,contribs)
+#### My projects:
+1. Coming soon...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stGOST&layout=compact)](https://github.com/stGOST/github-readme-stats)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=stGOST&hide=stars,prs,issues,contribs)
 <!--
 **stGOST/stGOST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
