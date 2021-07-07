@@ -14,24 +14,23 @@ Database:
 >![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
 Testing:
-- jUnit
-- Mockito
-- JaCoCo
-- JMH
+>![jUnit](https://img.shields.io/badge/jUnit-6b8e23)
+>![Mockito](https://img.shields.io/badge/Mockito-fc0)
+>![JaCoCo](https://img.shields.io/badge/JaCoCo-red)
+>![JMH](https://img.shields.io/badge/JMH-00bfff)
 >![Travis](https://img.shields.io/badge/TravisCI-succes)
 
 Style code:
-- Сheckstyle
-- JavaDoc
+>![Сheckstyle](https://img.shields.io/badge/Сheckstyle-708090 )
+>![JavaDoc](https://img.shields.io/badge/JavaDoc-f0f8ff )
 
 #### Here is my study projects:
-##### Lessons of:
 1. [Java SE](https://github.com/stGOST/job4j)
 #### Projects:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stGOST&hide=stars,prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stGOST&layout=compact)](https://github.com/stGOST/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stGOST&layout=compact)](https://github.com/stGOST/github-readme-stats)
 <!--
 **stGOST/stGOST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
