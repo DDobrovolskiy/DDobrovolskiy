@@ -1,9 +1,9 @@
 ### Hi! 👋 My name is Dmitry! :v:
-#### About me:
+#### :memo: About me:
 * I am 30 year old programmer from Ekaterinburg :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * Used C # for data since from 2015 :bar_chart:
-* Began to study Java from 02/2021 :watch:
+* Began to study Java from 02/2021 :calendar:
 
 -----------
 <b>Core technologies:</b>
@@ -25,10 +25,10 @@ Style code:
 >![Сheckstyle](https://img.shields.io/badge/Сheckstyle-708090 )
 >![JavaDoc](https://img.shields.io/badge/JavaDoc-f0f8ff )
 
-#### Here is my study projects:
+#### :file_folder: Here is my study projects:
 [![Java SE](https://github-readme-stats.vercel.app/api/pin/?username=stGOST&repo=job4j)](https://github.com/stGOST/job4j)
 
-#### My projects:
+#### :file_folder:  My projects:
 Coming soon...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stGOST&layout=compact)](https://github.com/stGOST/github-readme-stats)
