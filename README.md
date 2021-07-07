@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi! 👋 My name is Dmitry! :v:
+#### About me:
+* I am 30 year old programmer from Ekaterinburg :computer:
+* I learn Java at [Job4j](https://job4j.ru/) :coffee:
+* My Java expirience is ~1 years :watch:
+
+-----------
+<b>Core technologies:</b>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=stGOST&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stGOST&layout=compact)](https://github.com/stGOST/github-readme-stats)
 
 <!--
 **stGOST/stGOST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
