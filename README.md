@@ -2,7 +2,8 @@
 #### About me:
 * I am 30 year old programmer from Ekaterinburg :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
-* My Java expirience is ~1 years :watch:
+* Used C # for data since from 2015 :bar_chart:
+* Began to study Java from 02/2021 :watch:
 
 -----------
 <b>Core technologies:</b>
