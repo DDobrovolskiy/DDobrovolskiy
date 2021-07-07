@@ -6,7 +6,10 @@
 
 -----------
 <b>Core technologies:</b>
-
+>![Java](https://img.shields.io/badge/Java-orange)
+>![Maven](https://img.shields.io/badge/Maven-red)
+>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+>![Travis](https://img.shields.io/badge/TravisCI-succes)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stGOST&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stGOST&layout=compact)](https://github.com/stGOST/github-readme-stats)
