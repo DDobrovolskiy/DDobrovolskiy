@@ -26,12 +26,12 @@ Style code:
 >![JavaDoc](https://img.shields.io/badge/JavaDoc-f0f8ff )
 
 #### :file_folder: Here is my study projects:
-[![Java SE](https://github-readme-stats.vercel.app/api/pin/?username=DDobrovosky&repo=job4j)](https://github.com/DDobrovosky/job4j)
+[![Java SE](https://github-readme-stats.vercel.app/api/pin/?username=DDobrovolskiy&repo=job4j)](https://github.com/DDobrovolskiy/job4j)
 
 #### :file_folder:  My projects:
 Coming soon...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDobrovosky&layout=compact)](https://github.com/DDobrovosky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDobrovolskiy&layout=compact)](https://github.com/DDobrovolskiy/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=DDobrovosky&hide=stars,prs,issues,contribs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=DDobrovolskiy&hide=stars,prs,issues,contribs)
 
