@@ -1,6 +1,6 @@
 ### Hi! 👋 My name is Dmitry! :v:
 #### :memo: About me:
-* I am 30 year old programmer from Ekaterinburg :computer:
+* I am from Ekaterinburg :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * Used C # for data since from 2015 :bar_chart:
 * Began to study Java from 2021 :calendar:
