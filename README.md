@@ -27,6 +27,7 @@ Style code:
 
 #### :file_folder: Here is my study projects:
 [![Java SE](https://github-readme-stats.vercel.app/api/pin/?username=DDobrovolskiy&repo=job4j)](https://github.com/DDobrovolskiy/job4j)
+[![Java SE](https://github-readme-stats.vercel.app/api/pin/?username=DDobrovolskiy&repo=job4j_questions)](https://github.com/DDobrovolskiy/job4j_questions)
 
 #### :file_folder:  My projects:
 Coming soon...
