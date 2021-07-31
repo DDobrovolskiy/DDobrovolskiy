@@ -11,6 +11,9 @@
 >![JDBC](https://img.shields.io/badge/JDBC-yellow)
 >![Maven](https://img.shields.io/badge/Maven-red)
 
+Web:
+>![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-gold)
+
 Database:
 >![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
