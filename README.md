@@ -9,7 +9,11 @@
 <b>Core technologies:</b>
 >![Java](https://img.shields.io/badge/Java-orange)
 >![JDBC](https://img.shields.io/badge/JDBC-yellow)
+>![Servlet](https://img.shields.io/badge/Servlet-green)
+
+Project management:
 >![Maven](https://img.shields.io/badge/Maven-red)
+>![Travis](https://img.shields.io/badge/TravisCI-succes)
 
 Web:
 >![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-gold)
@@ -22,7 +26,6 @@ Testing:
 >![Mockito](https://img.shields.io/badge/Mockito-fc0)
 >![JaCoCo](https://img.shields.io/badge/JaCoCo-red)
 >![JMH](https://img.shields.io/badge/JMH-00bfff)
->![Travis](https://img.shields.io/badge/TravisCI-succes)
 
 Style code:
 >![Сheckstyle](https://img.shields.io/badge/Сheckstyle-708090 )
