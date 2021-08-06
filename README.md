@@ -17,6 +17,8 @@ Project management:
 
 Web:
 >![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-gold)
+>![HTML](https://img.shields.io/badge/HTML-CD5B45)
+>![CSS](https://img.shields.io/badge/CSS-indigo)
 
 Database:
 >![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
