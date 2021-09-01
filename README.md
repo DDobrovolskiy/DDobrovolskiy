@@ -6,19 +6,22 @@
 * Began to study Java from 2021 :calendar:
 
 -----------
-<b>Core technologies:</b>
+<b>Core technologies:</b>  
+Backend:
 >![Java](https://img.shields.io/badge/Java-orange)
 >![JDBC](https://img.shields.io/badge/JDBC-yellow)
->![Servlet](https://img.shields.io/badge/Servlet-green)
+>![Servlet](https://img.shields.io/badge/Servlet-5886af)
+>![Hibernate](https://img.shields.io/badge/Hibernate-eac77d)
 
 Project management:
 >![Maven](https://img.shields.io/badge/Maven-red)
 >![Travis](https://img.shields.io/badge/TravisCI-succes)
+>![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-e5ab09)
 
-Web:
->![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-gold)
->![HTML](https://img.shields.io/badge/HTML-CD5B45)
+Frontend:
+>![HTML](https://img.shields.io/badge/HTML-d02a2a)
 >![CSS](https://img.shields.io/badge/CSS-indigo)
+>![JavaScript](https://img.shields.io/badge/JavaScript-gold)
 
 Database:
 >![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
@@ -28,6 +31,7 @@ Testing:
 >![Mockito](https://img.shields.io/badge/Mockito-fc0)
 >![JaCoCo](https://img.shields.io/badge/JaCoCo-red)
 >![JMH](https://img.shields.io/badge/JMH-00bfff)
+>![HSQLDB](https://img.shields.io/badge/HSQLDB-264b77)
 
 Style code:
 >![Сheckstyle](https://img.shields.io/badge/Сheckstyle-708090 )
