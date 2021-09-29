@@ -12,8 +12,10 @@ Backend:
 >![JDBC](https://img.shields.io/badge/JDBC-yellow)
 >![Servlet](https://img.shields.io/badge/Servlet-5886af)
 >![Hibernate](https://img.shields.io/badge/Hibernate-eac77d)
+>![Spring](https://img.shields.io/badge/Spring-d0f0c0)
 
 Project management:
+>![Grable](https://img.shields.io/badge/Grable-00BFFF)
 >![Maven](https://img.shields.io/badge/Maven-red)
 >![Travis](https://img.shields.io/badge/TravisCI-succes)
 >![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-e5ab09)
