@@ -39,6 +39,7 @@ Style code:
 
 #### :file_folder: Patterns:
 * [Circuit breaker](https://github.com/DDobrovolskiy/pattern_circuit_breaker_spring)
+* [CQRS](https://github.com/DDobrovolskiy/practics_CQRS)
 
 #### :file_folder:  My projects:
 * [DevOps](https://github.com/DDobrovolskiy/devOps)
