@@ -8,42 +8,48 @@
 
 -----------
 <b>Core technologies:</b>  
-Backend:
->![Java](https://img.shields.io/badge/Java-orange)
->![JDBC](https://img.shields.io/badge/JDBC-yellow)
->![Servlet](https://img.shields.io/badge/Servlet-5886af)
+
+>Backend:
+>
+>![Java](https://img.shields.io/badge/Java-brown)
 >![Hibernate](https://img.shields.io/badge/Hibernate-eac77d)
->![Spring](https://img.shields.io/badge/Spring-d0f0c0)
-
-Project management:
->![Grable](https://img.shields.io/badge/Grable-00BFFF)
->![Maven](https://img.shields.io/badge/Maven-red)
-
-Database:
+>![SpringFramework](https://img.shields.io/badge/SpringFramework-green)
+>![WebFlux](https://img.shields.io/badge/WebFlux-yellow)
+>
+>Builder:
+>
+>![Maven](https://img.shields.io/badge/Maven-orange)
+>
+>Project:
+>
+>![Docker](https://img.shields.io/badge/Docker-00BFFF)
+>![DockerCompose](https://img.shields.io/badge/DockerCompose-white)
+>
+>Database:
+>
 >![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+>![Redis](https://img.shields.io/badge/Redis-brown)
+>![Elasticsearch](https://img.shields.io/badge/Elasticsearch-pink)
 >![HSQLDB](https://img.shields.io/badge/HSQLDB-264b77)
-
-DevOps:
->![Travis](https://img.shields.io/badge/TravisCI-succes)
+>
+>Pipeline:
+>
 >![Jenkins](https://img.shields.io/badge/JenkinsCI-white)
 >![JaCoCo](https://img.shields.io/badge/JaCoCo-red)
-
-Testing:
+>
+>Testing:
+>
 >![jUnit](https://img.shields.io/badge/jUnit-6b8e23)
 >![Mockito](https://img.shields.io/badge/Mockito-fc0)
 >![JMH](https://img.shields.io/badge/JMH-00bfff)
-
-Style code:
+>![JMeter](https://img.shields.io/badge/JMeter-gray)
+>![JProfiler](https://img.shields.io/badge/JProfiler-blue)
+>
+>Style code:
+>
 >![Сheckstyle](https://img.shields.io/badge/Сheckstyle-708090 )
 >![JavaDoc](https://img.shields.io/badge/JavaDoc-f0f8ff )
 
-#### :file_folder: Patterns:
-* [Circuit breaker](https://github.com/DDobrovolskiy/pattern_circuit_breaker_spring)
-* [CQRS](https://github.com/DDobrovolskiy/practics_CQRS)
-
-#### :file_folder:  My projects:
-* [DevOps](https://github.com/DDobrovolskiy/devOps)
-* [OpenShift test service "Health check"](https://github.com/DDobrovolskiy/os_service_health)
 
 #### :file_folder: Other:
 * [HandBook](https://github.com/DDobrovolskiy/HandBook)
